@@ -1,0 +1,13 @@
+# Documents du cours
+*.pdf
+*.zip
+
+# Config de l'appareil
+pymakr.conf
+
+# Obsidian / éditeur / Python
+Notes de cours (Obsidian)/
+.obsidian/
+__pycache__/
+.vscode/
+
